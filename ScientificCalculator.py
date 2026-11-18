@@ -60,5 +60,11 @@ match choice:
     case 10:
         a=float(input("Enter Number"))
         print(f"Answer={round(math.tan(math.radians(a)),2)}")
+<<<<<<< HEAD
     case _:
         print("invalid choice :(")              
+=======
+        
+    case _:
+        print("invalid choice :(")              
+>>>>>>> 19cfa7386e385841fac4b1066cc1887c07413fa8
